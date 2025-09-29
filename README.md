@@ -17,5 +17,5 @@
 
 <h1 align="center">📈 Github Stats</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melvin2703&show_icons=true&locale=en" alt="melvin2703" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melvin2703&show_icons=true&theme=dark&locale=en" alt="melvin2703" /></p>
 
